@@ -1,45 +1,127 @@
-# Miscellaneous
+# ===========================
+# Sistema
+# ===========================
 *.class
 *.log
 *.pyc
 *.swp
 .DS_Store
-.atom/
-.build/
-.buildlog/
-.history
-.svn/
-.swiftpm/
-migrate_working_dir/
+Thumbs.db
 
-# IntelliJ related
+# ===========================
+# IDEs
+# ===========================
+.idea/
+.vscode/
 *.iml
 *.ipr
 *.iws
-.idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
-
-# Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
+# ===========================
+# Flutter / Dart
+# ===========================
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
-.pub-cache/
+.packages
 .pub/
-/build/
+.pub-cache/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
 
-# Symbolication related
-app.*.symbols
+# ===========================
+# Android
+# ===========================
+android/app/debug/
+android/app/profile/
+android/app/release/
 
-# Obfuscation related
-app.*.map.json
+# Keystore
+android/key.properties
+android/app/*.jks
+android/app/*.keystore
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# ===========================
+# iOS
+# ===========================
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# ===========================
+# Windows / Linux / macOS
+# ===========================
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# ===========================
+# Banco de dados
+# ===========================
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# ===========================
+# Variáveis de ambiente
+# ===========================
+.env
+.env.*
+!.env.example
+
+# ===========================
+# Firebase
+# ===========================
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Firebase Admin SDK
+service-account*.json
+
+# ===========================
+# Arquivos temporários
+# ===========================
+*.tmp
+*.temp
+
+# ===========================
+# Ferramentas de IA
+# ===========================
+.adal/
+.agents/
+.augment/
+.bob/
+.claude/
+.codebuddy/
+.commandcode/
+.continue/
+.cortex/
+.crush/
+.factory/
+.goose/
+.iflow/
+.junie/
+.kilocode/
+.kiro/
+.kode/
+.mcpjam/
+.mux/
+.neovate/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.vibe/
+.windsurf/
+.zencoder/
+.aiexclude
+.cursorrules
+
+skills/
+skills-lock.json
