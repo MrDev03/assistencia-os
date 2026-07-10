@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "655433559329",
+    "project_id": "assistenciaos",
+    "storage_bucket": "assistenciaos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655433559329:android:ecc50d7472e658a6116260",
+        "android_client_info": {
+          "package_name": "com.mr.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a6uriVv4EHDirMJs4Hp25RX8py3jQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655433559329-dd0vgi2e5ujen5hpku08v1mie1cpl1nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mr.dev.assistencia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655433559329:android:546d5f8ce802e5ac116260",
+        "android_client_info": {
+          "package_name": "com.mr.dev.assistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655433559329-cq8of8r4e5avl3balebi245jhfndtb3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mr.dev.assistencia",
+            "certificate_hash": "1056cf3fc90607a4b47769790a6a7a2a009a5c8f"
+          }
+        },
+        {
+          "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a6uriVv4EHDirMJs4Hp25RX8py3jQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655433559329-dd0vgi2e5ujen5hpku08v1mie1cpl1nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mr.dev.assistencia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655433559329:android:d2d2180172ff0da4116260",
+        "android_client_info": {
+          "package_name": "com.nextcode.studio.assistencia_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a6uriVv4EHDirMJs4Hp25RX8py3jQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655433559329-0ocj70nad15jkd120jjgmimdjrmdns87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655433559329-dd0vgi2e5ujen5hpku08v1mie1cpl1nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mr.dev.assistencia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
